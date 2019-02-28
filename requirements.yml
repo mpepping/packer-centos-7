@@ -1,3 +1,2 @@
 ---
-- src: geerlingguy.packer-rhel
-- src: geerlingguy.nfs
+- src: mpepping.ansible_role_packer_rhel

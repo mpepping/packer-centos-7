@@ -1,6 +1,12 @@
 .DS_Store
-packer_cache/*
+*.swp
+
 *.box
+*.iso
+.vagrant
 iso/*
 output-virtualbox-iso/*
-.vagrant/*
+output-vmware-iso/*
+packer_cache/*
+
+debug.log
