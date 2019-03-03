@@ -1,7 +1,7 @@
 {
   "variables": {
     "version": "0.0.1",
-    "access_token": "p94lIo2aX6Jjvg.atlasv1.rBXxKsVWlXJjMqCzKHIBDSVECaKc1mImCAlFUpV7NPDcjMsBNYR3czU5aHnuFwlAjD0",
+    "access_token": "DUMMY",
     "cwd": "{{ env `PWD` }}",
     "headless": "false",
     "description": "CentOS 7 DevBox",
